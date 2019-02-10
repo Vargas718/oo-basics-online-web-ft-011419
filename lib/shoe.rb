@@ -18,4 +18,4 @@ class Shoe
 end
 
 sneaker = Show.new("Vargas")
-sneaker.condition = "new"
+sneaker.condition("new")
