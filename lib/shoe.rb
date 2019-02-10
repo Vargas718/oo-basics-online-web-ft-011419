@@ -11,4 +11,3 @@ class Shoe
   
 end
 
-sneaker = Shoe.new
