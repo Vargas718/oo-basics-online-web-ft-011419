@@ -42,5 +42,5 @@ class Book
 
 end
 
-Book.new("And Then There Were None")
+book = Book.new("And Then There Were None")
 book.turn_page
