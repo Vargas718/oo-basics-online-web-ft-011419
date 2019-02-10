@@ -17,4 +17,4 @@ class Shoe
   
 end
 
-sneaker = Show.new("Vargas")
+sneaker = Shoe.new("Vargas")
